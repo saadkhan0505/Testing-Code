@@ -1,0 +1,5 @@
+#grafana-container {
+    width: 100%; /* Set the width of the container */
+    height: 600px; /* Set the height of the container */
+    border: 1px solid #ccc; /* Add a border for visual separation */
+  }
